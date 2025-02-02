@@ -35,6 +35,8 @@ Hacker Ético - NDG, 70h - cursando (2025)
 Python - NDG, 70h - cursando (2025)
 
 Experiência Profissional
+
+
 🔹 Secretária – Hospital Vitallys | 2024 (60 dias)
 
 Atendimento e recepção de pacientes.
