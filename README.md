@@ -1,7 +1,12 @@
-# Bárbara Barros 👩‍💻
-Olá! Sou Bárbara Barros, tenho 19 anos e estou trilhando minha jornada na área de tecnologia com foco em Desenvolvimento Web e Cybersegurança. Atualmente, curso Técnico em Informática pelo IFNMG e Licenciatura em Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
+Bárbara Barros
+19 anos | Desenvolvimento Web & Cibersegurança
 
-Minha paixão por tecnologia vai além do código: busco unir programação e segurança cibernética para criar soluções não apenas funcionais, mas também robustas e seguras. Meu objetivo é me tornar uma profissional multidisciplinar, capaz de desenvolver aplicações web modernas enquanto garanto que elas sejam resistentes a ameaças digitais.
+Estudante de Técnico em Informática (IFNMG) e Licenciatura em Computação (UESB), busco integrar desenvolvimento web e segurança cibernética para criar soluções funcionais e resilientes. Meu objetivo é aliar expertise técnica em programação com práticas robustas de proteção digital.
+
+Projetos Destacados
+Calculadora em Python: Implementação de operações básicas com tratamento de inputs.
+
+Calculadora com Interface Gráfica (Flet): Design interativo com funcionalidades avançadas.
 
 
 
