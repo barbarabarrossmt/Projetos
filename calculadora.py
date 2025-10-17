@@ -28,3 +28,29 @@ while True:
         print('Operação não reconhecida!')
 
     print ('{} {} {} = {}'.format(num1, op, num2, result))
+
+
+# Calculadora Simples em Python
+
+Uma calculadora de linha de comando desenvolvida em Python puro.
+
+## 🚀 Funcionalidades
+
+- [x] Adição (+)
+- [x] Subtração (-)
+- [x] Multiplicação (*)
+- [x] Divisão (/)
+- [x] Interface simples no terminal
+- [x] Tratamento de erros básico
+
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/calculadora-python.git
+
+# Entre no diretório
+cd calculadora-python
+
+# Execute a calculadora
+python src/calculadora.py
